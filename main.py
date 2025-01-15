@@ -1,5 +1,3 @@
-#edited
-
 import game_data
 import random
 import art
